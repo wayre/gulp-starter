@@ -1,0 +1,22 @@
+{
+  "name": "gulp-starter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wayre/gulp-starter",
+  "main": "index.html",
+  "authors": [
+    "Wayre Avelar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendors/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3"
+  }
+}
